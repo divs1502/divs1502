@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divs1502
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning font-end web development.
+- 🌱 I’m currently learning font-end web development and Competative Programming.
 - 💞️ I’m looking to collaborate on projects related to web development and website building.
 - 📫 How to reach me , you can connect with me using facebook "https://www.facebook.com/divyesh.lahane.9"
 
