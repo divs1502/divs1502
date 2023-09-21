@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/33921/222235486-10381ad0-0378-4772-a08d-b9d9c69646bf.gif)](https://div15.carrd.co/)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1625710073911/PDthH6vg7.gif?auto=format,compress&gif-q=60&format=webm)](https://div15.carrd.co/)
 
 
 <h1 align="center">Hi 👋, I'm Divyesh Lahane</h1>
