@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.pinterest.com/pin/204702745549241158/](https://tenor.com/view/designer-developer-gif-18967377))](https://div15.carrd.co/)
+[![MasterHead](https://user-images.githubusercontent.com/33921/222235486-10381ad0-0378-4772-a08d-b9d9c69646bf.gif)](https://div15.carrd.co/)
 
 
 <h1 align="center">Hi 👋, I'm Divyesh Lahane</h1>
