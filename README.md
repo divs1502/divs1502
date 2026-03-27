@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/divs1502" target="blank"><img src="https://img.shields.io/twitter/follow/divs1502?logo=twitter&style=for-the-badge" alt="divs1502" /></a> </p>
 
-- 🔭 I’m currently working on **TalkHub**
+- 🔭 I’m currently working on **RepSpark**
 
-- 🌱 I’m currently learning **Java and ReactJS**
+- 🌱 I’m currently mastering **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://div15.carrd.co/](https://div15.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://www.my-portfolio-div.fun/](https://www.my-portfolio-div.fun/)
 
 - 📫 How to reach me **divyeshlahane15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/158usJ79jyqFrG_vWoAQuQDnBTUhPJfZI/view?usp=sharing](https://drive.google.com/file/d/158usJ79jyqFrG_vWoAQuQDnBTUhPJfZI/view?usp=sharing)
+- 📄 Know about my experiences [https://www.linkedin.com/in/divyesh-lahane/overlay/1765650732712/single-media-viewer/?profileId=ACoAADd4I40BKzQGm14r2jqwVknkpo-0UzfWXXU](https://www.linkedin.com/in/divyesh-lahane/overlay/1765650732712/single-media-viewer/?profileId=ACoAADd4I40BKzQGm14r2jqwVknkpo-0UzfWXXU)
 
 - ⚡ Fun fact **The world's largest open-source software repository, GitHub, hosts over 200 million code repositories. That's a whole lot of open collaboration! #OpenSource #GitHub**
 
