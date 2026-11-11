@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently mastering **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://www.my-portfolio-div.fun/](https://www.my-portfolio-div.fun/)
+- 👨‍💻 All of my projects are available at [[https://www.my-portfolio-div.fun/](https://portfolio-divyesh.cloud/)]
 
 - 📫 How to reach me **divyeshlahane15@gmail.com**
 
